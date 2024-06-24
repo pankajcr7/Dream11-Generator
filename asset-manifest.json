@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dream11-Generator/static/css/main.c759f08e.css",
-    "main.js": "/Dream11-Generator/static/js/main.08185e5f.js",
-    "static/js/453.170757ce.chunk.js": "/Dream11-Generator/static/js/453.170757ce.chunk.js",
-    "index.html": "/Dream11-Generator/index.html",
-    "main.c759f08e.css.map": "/Dream11-Generator/static/css/main.c759f08e.css.map",
-    "main.08185e5f.js.map": "/Dream11-Generator/static/js/main.08185e5f.js.map",
-    "453.170757ce.chunk.js.map": "/Dream11-Generator/static/js/453.170757ce.chunk.js.map"
+    "main.css": "./static/css/main.c759f08e.css",
+    "main.js": "./static/js/main.baff1113.js",
+    "static/js/453.170757ce.chunk.js": "./static/js/453.170757ce.chunk.js",
+    "index.html": "./index.html",
+    "main.c759f08e.css.map": "./static/css/main.c759f08e.css.map",
+    "main.baff1113.js.map": "./static/js/main.baff1113.js.map",
+    "453.170757ce.chunk.js.map": "./static/js/453.170757ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c759f08e.css",
-    "static/js/main.08185e5f.js"
+    "static/js/main.baff1113.js"
   ]
 }
